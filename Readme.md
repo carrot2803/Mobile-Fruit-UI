@@ -1,6 +1,6 @@
 # Mobile Fruit UI
 
-This is a simple, mobile weather ui built using TypeScript and React Native.
+This is a simple, mobile fruitshop ui built using TypeScript and React Native.
 
 ## App Availability
 
